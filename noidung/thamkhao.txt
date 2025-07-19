@@ -1,1 +1,44 @@
-
+III. NỘI DUNG:
+Khóa học sẽ diễn ra trong 04 buổi. Nội dung từng buổi học được thiết kế như sau:
+* BUỔI 1:
+1. Phân biệt bài báo khoa học chuẩn ISI và bài báo cáo tổng hợp;
+2. Tầm quan trọng của việc công bố công trình đạt chuẩn ISI quốc tế;
+3. Phân biệt Nhà xuất bản danh tiếng và Nhà xuất bản dỏm;
+4. Phân hạng tạp chí (Q1, Q2, Q3, và Q4) trong Danh mục ISI;
+5. Các dạng/loại bài báo khoa học trong Danh mục ISI;
+6. Kỹ năng tìm kiếm tài liệu khoa học liên quan và đáng tin cậy;
+7. Một số công cụ hữu ích và thủ thuật để tăng cường kỹ năng viết Tiếng Anh dạng học thuật;
+8. Giới thiệu cách viết Tiếng Anh trong học thuật và khoa học;
+9. Quy trình gửi và đăng bài báo trên hệ thống các NXB uy tín thế giới;
+10. Áp lực của các biên tập viên khi thẩm định công trình khoa học?
+11. Lý do Nhà xuất bản/Chủ biên tập thu hồi công trình đã đăng?
+12. Hướng dẫn cách xin bản quyền từ Nhà xuất bản;
+13. Danh mục các tạp chí Việt Nam trong hệ thống ISI;
+14. Chia sẻ các trang học thuật hữu ích của cộng đồng người Việt Nam trên thế giới;
+15. Thực trạng công bố báo ISI: khách quan hay tiêu cực?
+* BUỔI 2:
+1. Xử lý số liệu thí nghiệm và đánh giá số liệu phân tích;
+2. Hướng dẫn chương trình tính toán và vẽ đồ thị/hình ảnh ấn tượng;
+3. Thủ thuật trình bày số liệu thí nghiệm một cách khoa học, ấn tượng, và đầy đủ thông tin.
+4. Những điều nên/không nên khi viết bài báo khoa học và khi trả lời các nhà bình duyệt;
+5. Hướng dẫn cơ bản (và chia sẻ một số thủ thuật liên quan) về cách sử dụng chương trình;
+6. Quản lý tài liệu tham khảo và trích dẫn thông dụng hiện nay;
+6. Thủ thuật để tăng giá trị khoa học của bài báo khi số liệu thí nghiệm không quá nổi bật;
+7. Thủ thuật viết bản thảo để các nhà bình duyệt tin tưởng và đọc giả cảm thấy ấn tượng;
+* BUỔI 3 và 4:
+1. Hướng dẫn cách viết “Capsule” hoặc “Statement of Novelty”;
+2. Chia sẻ cách viết “Highlights” và cách vẽ “Graphical Abstract” theo chuẩn chung;
+3. Cách đặt tựa đề (“Title”) cho một bài báo khoa học ấn tượng;
+4. Vai trò quan trọng của phần tóm lược (“Abstract”) và hướng dẫn các cách viết Abstract theo yêu cầu của tạp chí.
+5. Hướng dẫn các cách viết cơ bản phần mở đầu/dẫn nhập (“Introduction”) của một bài báo;
+6. Cách viết một “Cover Letter” cho từng dạng/loại bài báo khoa học trong Danh mục ISI;
+7. Thủ thuật trả lời các nhà bình duyệt (Reviewers) và Biên tập viên (Editor);
+8. Chia sẻ số kỹ năng đánh máy các ký tự, viết tắt, đơn vị, khoản cách… theo chuẩn quốc tế;
+9. Một số thông tin quan trọng cần nắm khi đọc mục hướng dẫn cho tác giả (“Guide for Authors”) của tạp chí;
+10. Thực hành các bước gửi bài báo khoa học trên nhà xuất bản nổi tiếng (Elsevier) và giải quyết các vấn đề phát sinh liên quan.
+11. Chia sẻ cách giải quyết các vấn đề thường gặp sau khi công trình đã công bố thành công;
+12. Một số kỹ năng cần thiết trước khi gửi mẫu phân tích các đặc tính bằng công nghệ hiện đại (FTIR, SEM-EDS, TGA, XPS, XRD, BET surface area….);
+13. Chia sẻ kinh nghiệm của một “Associate Editor” khi duyệt bản thảo cho tạp chí thuộc danh mục ISI.
+14. Thực hành.
+15. Giải đáp thắc mắc của học viên.
+16. Trao chứng nhận hoàn thành khóa học.
