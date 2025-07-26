@@ -2,4 +2,4 @@
 
 
 <h2>Literature template</h2>
-<img src="cheatsheet/literature_review.jpg" width="1200" height="600" >
+<img src="cheatsheet/literature_review.jpg" width="1600" height="600" >
