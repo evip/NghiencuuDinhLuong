@@ -14,3 +14,5 @@
 
 <h2>Công cụ AI</h2>
 <img src="cheatsheet/ai_tool.jpg" width="800" height="1600" >
+
+<h2><a href="https://www.facebook.com/dtnh.cole">Phương pháp thống kê</a></h2>
