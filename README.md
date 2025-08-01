@@ -4,7 +4,7 @@
 <img src="LuanVan/cau_truc_luan_van.jpg" width="800" height="1600" >
 
 <h2>Mẫu viết Literature Revise</h2>
-<img src="cheatsheet/literature_review.jpg" width="800" height="1600" >
+<img src="cheatsheet/literature_review.jpg" width="800" >
 
 <h2>Khoản trống nghiên cứu</h2>
 <img src="cheatsheet/gap.jpg" width="800" height="800" >
