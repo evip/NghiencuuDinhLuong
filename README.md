@@ -7,7 +7,7 @@
 <img src="cheatsheet/literature_review.jpg" width="800" >
 
 <h2>Khoản trống nghiên cứu</h2>
-<img src="cheatsheet/gap.jpg" width="800" height="800" >
+<img src="cheatsheet/gap.jpg" width="800" >
 
 
 <h1> $${\color{red}Data  \space \space Processing}$$ </h1>
@@ -19,7 +19,7 @@
 <img src="cheatsheet/life_circle_ml.jpg" width="800" >
 
 <h2>Phương thức thu thập</h2>
-<img src="cheatsheet/data_collection_type.jpg" width="800" height="1600" >
+<img src="cheatsheet/data_collection_type.jpg" width="800" >
 
 <h1> $${\color{red}Statistical \space \space Method}$$ </h1>
 <h2 style="color: red"><a href="KiemDinh/Hypothesis Testing.pdf">Tổng quang kiểm định</a></h2>
