@@ -13,8 +13,8 @@
 <h2>Phương thức thu thập dữ liệu</h2>
 <img src="cheatsheet/data_collection_type.jpg" width="800" height="1600" >
 
-$${\color{red}Statistical method}$$
-<h2 style="color: red"><a href="KiemDinh/Hypothesis Testing.pdf">Kiểm định tham số</a></h2>
+<h2> $${\color{red}Statistical_Method}$$ </h2>
+<h2 style="color: red"><a href="KiemDinh/Hypothesis Testing.pdf">Tổng quang kiểm định</a></h2>
 <h2><a href="KiemDinh/Hypothesis_Testing_Cases.pdf">Case kiểm định giải tuyết</a></h2>
 <embed src="KiemDinh/Hypothesis_Testing_Cases.pdf" type="application/pdf" width="800" />
 
