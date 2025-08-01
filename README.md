@@ -10,7 +10,12 @@
 <img src="cheatsheet/gap.jpg" width="800" height="800" >
 
 
-<h2>Phương thức thu thập dữ liệu</h2>
+<h1> $${\color{red}Data  \space \space Processing}$$ </h1>
+
+<h2>Vòng đời</h2>
+<img src="cheatsheet/life_circle.jpg" width="800" height="1600" >
+
+<h2>Phương thức thu thập</h2>
 <img src="cheatsheet/data_collection_type.jpg" width="800" height="1600" >
 
 <h1> $${\color{red}Statistical \space \space Method}$$ </h1>
