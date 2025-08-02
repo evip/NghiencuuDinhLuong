@@ -22,7 +22,7 @@
 <img src="cheatsheet/data_collection_type.jpg" width="800" >
 
 <h1> $${\color{red}Statistical \space \space Method}$$ </h1>
-<h2 style="color: red"><a href="KiemDinh/Hypothesis Testing.pdf">Tổng quang kiểm định</a></h2>
+<h2 style="color: red"><a href="KiemDinh/Hypothesis Testing.pdf">Tổng quan kiểm định</a></h2>
 <h2><a href="KiemDinh/Hypothesis_Testing_Cases.pdf">Case kiểm định giải tuyết</a></h2>
 <embed src="KiemDinh/Hypothesis_Testing_Cases.pdf" type="application/pdf" width="800" />
 
