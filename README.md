@@ -1,3 +1,4 @@
+<h2><a href="https://forms.gle/gcV8txFmW4yrD7Sd8">DK nhóm</a></h2>
 <h1>Nghiên cứu định lượng trong kinh doanh </h1>
 
 <h2>Cấu trúc luận văn định lượng</h2>
